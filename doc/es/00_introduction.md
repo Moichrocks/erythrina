@@ -7,7 +7,7 @@ Pero, ¿de qué va todo esto? Aparte de ser un manojo de horrores gramaticales y
 
 Hay muchos temas que han captado mi interés y escribiré (o lo intentaré) sobre ellos
 una vez por semana. Éstos van desde la creación básica de assets, pasando por trucos
-útiles e ideas, hasta algunas coasa locas que yo mismo no he implementado todavía.
+útiles e ideas, hasta algunas cosas locas que yo mismo no he implementado todavía.
 
 Ahora, el juego. OK, no hay juego. Todavía no. Iré desarrollándolo al tiempo que voy
 escribiendo estos tutoriales, y se van subiendo a [github](https://github.com/jbat1jumper/erythrina),
@@ -38,6 +38,6 @@ y animaciones para este juego. Usaré <s>Graphics Gale</s> ASEprite porque es im
 relamente me divierte userlo y puedo exportar de forma que encaja bien con Godot.
 
 Después de eso haré el entorno y algunos tileset (juego de azulejos) usando Pyxel Edit
-a lo podré todo junto dentro de Godot Engine para darle vida.
+y lo podré todo junto dentro de Godot Engine para darle vida.
 
 ### Vamos a [empezar](01_making_assets.md)
